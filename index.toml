@@ -13,7 +13,23 @@ file = "config/roughlyenoughitems/config.json5"
 file = "config/waila/waila.json"
 
 [[files]]
+file = "config/xaerominimap.txt"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+
+[[files]]
 file = "config/zoomify.json"
+
+[[files]]
+file = "icon.png"
+
+[[files]]
+file = "mods/antighost.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -44,11 +60,19 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/durabilityviewer.pw.toml"
+file = "mods/dcch.pw.toml"
 metafile = true
 
 [[files]]
@@ -61,6 +85,10 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
 metafile = true
 
 [[files]]
@@ -121,4 +149,8 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/shrimple.pw.toml"
 metafile = true
