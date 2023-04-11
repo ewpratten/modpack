@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/capes.json5"
+hash = "5e21bf064f9e317a952037450844b0dfffc157b1d143e54191f2826b69320e06"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "cd4d6fbef4fd5522b7079feabafd8fdfbcabb3c8a658ba8983dc6d7bbc8329b5"
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "db21e3102cd26352b3e04efd9a9ad0a3f76c7aebcf2b1ae170b9a031dde4573d"
+
+[[files]]
 file = "config/waila/waila.json"
 hash = "5425ea9d0feebce713f100be8e489c89e0c9010d53ebb92dbd7e85818c8d113a"
+
+[[files]]
+file = "config/zoomify.json"
+hash = "1fa8fd0a848f78513117b76becf5419c9c79c50a730aaf8228337eeff85c3e72"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
