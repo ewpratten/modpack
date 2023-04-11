@@ -1,12 +1,12 @@
 name = "Evan's Pack"
 author = "Evan Pratten"
-version = "1.0.0"
+version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "53c4bdd4731ab6f0bec4866140dc21b488ef3754f977d49db891720c06e07a85"
+hash = "27ece2a2cde07507b4af7199a25938d98458295ed015c2bca6f4b33deeaa4333"
 
 [versions]
 minecraft = "1.19.4"

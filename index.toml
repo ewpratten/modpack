@@ -1,16 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
-
-[[files]]
-file = "README.md"
-hash = "0154d032e143a4162589512e4d6f8f8a202813d8db19e08bf707f39468d3845e"
+file = "config/waila/waila.json"
+hash = "5425ea9d0feebce713f100be8e489c89e0c9010d53ebb92dbd7e85818c8d113a"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "b1b9042b80ced7af7192b3159b12112c6b2899c81ff09f0232f01bce8f42fba1"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e259934dcbb1f7a3935e778a4614abf486b81d0da7ba4f11585d3784498b5c4"
 metafile = true
 
 [[files]]
@@ -19,13 +20,48 @@ hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "55c14fd0cba0ae4478945420862cfdec970a5ab40b04a34ce9e3f94b9d721e38"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "83d8a8865dfe81276fabc0c7085106a760608c0a3d569716fc77b3d0cb4d4c0d"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "eb6cb8a8cde5c16bfe3c1f14353f362bc857621a9703579ff9aac154c8c975e9"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "156942df991662545265aae10fafa4b64bc1ba1226670be03916e58894671089"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "18f046ed2181bbfbfb07b1db22f8babed47a40d8d80f204bd9e5574a5d9cfb3b"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "7857d46b41b5c4a2a9a11fd17572a266c633064ac026b72588e0f4afcb296942"
+file = "mods/durabilityviewer.pw.toml"
+hash = "7128ef61169fb41983691feebd3119798ef3c1b3eefeebe1275c4e891d93bdaa"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-sound-filters.pw.toml"
+hash = "f44826dcd22c73a7c025aec34b544bec2a6682f3c61da4128d75b2de1857f660"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
 metafile = true
 
 [[files]]
@@ -34,13 +70,38 @@ hash = "60a78e25d2180c559f671bff385131be02a49d9c5a650b988995dbf3aaae6660"
 metafile = true
 
 [[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "1f4df9a518618ca75875f23a6dccf74acaec26963d9108468ff4d106107e02f1"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "9966fa77d57235f7460b84632e7b89188b2944787f23214f87a10908f5aed867"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "e0ffc486b8d9b9bcd9123b284f8795c0e671321f7de9461df04de9e4fcc443c8"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "5b242270eda128c7eb2cdcc29d9f8fe24a997241ef19093a0e1e5112bc0dcabb"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "a0d6bc80ddb30ae38daab5e04d8b1a8066a9f9c51a7f6948f5d755e057c7bd84"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "1a288ba9c3f6a2fd9798b1db215b0c24a8d20e50bb8b006972d6e682197fee27"
 metafile = true
 
 [[files]]
@@ -56,4 +117,14 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "96a0c6997753cbc04207852157e0fd41d47dfbfd6aef9023125380518d8dd545"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "72214bf1c5210d1fd5d47f5fe354310ea7d7e1268eb48574c0655d6d4f4d5c42"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "6f796fa32047df2fba6fca47eb50b8547a82f80c0522c9d0822a43436d5d1f6b"
 metafile = true
