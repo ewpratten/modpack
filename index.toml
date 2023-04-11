@@ -1,0 +1,59 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+
+[[files]]
+file = "README.md"
+hash = "0154d032e143a4162589512e4d6f8f8a202813d8db19e08bf707f39468d3845e"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "b1b9042b80ced7af7192b3159b12112c6b2899c81ff09f0232f01bce8f42fba1"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "18f046ed2181bbfbfb07b1db22f8babed47a40d8d80f204bd9e5574a5d9cfb3b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7857d46b41b5c4a2a9a11fd17572a266c633064ac026b72588e0f4afcb296942"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "60a78e25d2180c559f671bff385131be02a49d9c5a650b988995dbf3aaae6660"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "9966fa77d57235f7460b84632e7b89188b2944787f23214f87a10908f5aed867"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "a0d6bc80ddb30ae38daab5e04d8b1a8066a9f9c51a7f6948f5d755e057c7bd84"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "09eeea145537da2b895fae591bc97dcfee6c8232d63d9c8c11055b59df1dcfa4"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "96a0c6997753cbc04207852157e0fd41d47dfbfd6aef9023125380518d8dd545"
+metafile = true

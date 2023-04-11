@@ -1,0 +1,16 @@
+name = "Evan's Pack"
+author = "Evan Pratten"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "53c4bdd4731ab6f0bec4866140dc21b488ef3754f977d49db891720c06e07a85"
+
+[versions]
+minecraft = "1.19.4"
+quilt = "0.18.9"
+
+[options]
+acceptable-game-versions = ["1.19.3"]
