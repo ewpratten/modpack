@@ -7,6 +7,9 @@ file = "config/capes.json5"
 file = "config/isxander-main-menu-credits.json"
 
 [[files]]
+file = "config/replaymod.json"
+
+[[files]]
 file = "config/roughlyenoughitems/config.json5"
 
 [[files]]
@@ -28,6 +31,14 @@ file = "config/zoomify.json"
 file = "icon.png"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 metafile = true
 
@@ -40,15 +51,35 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/blur-fabric.pw.toml"
+file = "mods/better-stats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cem.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
 metafile = true
 
 [[files]]
@@ -76,11 +107,23 @@ file = "mods/dcch.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/deathlog.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-sound-filters.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
 metafile = true
 
 [[files]]
@@ -96,11 +139,27 @@ file = "mods/iris.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
 metafile = true
 
 [[files]]
@@ -109,6 +168,14 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
 metafile = true
 
 [[files]]
@@ -124,7 +191,27 @@ file = "mods/rei.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/replaymod.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
 metafile = true
 
 [[files]]
