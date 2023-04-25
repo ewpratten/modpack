@@ -1,5 +1,5 @@
 version:3337
-quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","file/BetterVanillaBuildingV2.86.1.zip","file/BushyBiomesV2.5.1.zip","file/BvBOverlaysV5.1.zip","file/Stefan\u0027sArmors\u0027N\u0027ItemsV1.24.1.zip","file/Stefan\u0027sEnchantedBooks 1.19.4.zip","high_contrast","lambdabettergrass/default","programmer_art","vanilla"]
+quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","file/BetterVanillaBuildingV2.86.1.zip","file/BushyBiomesV2.5.1.zip","file/BvBOverlaysV5.1.zip","file/Stefan\u0027sArmors\u0027N\u0027ItemsV1.24.1.zip","file/Stefan\u0027sEnchantedBooks 1.19.4.zip","high_contrast","lambdabettergrass/default","programmer_art","vanilla","file/VanillaTweaks_Colorful_Enchanting.zip","file/VanillaTweaks_Lower_Shield.zip","file/VanillaTweaks_What.zip"]
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","continuity/glass_pane_culling_fix","continuity/default","lambdabettergrass/default"]
+resourcePacks:["vanilla","continuity/glass_pane_culling_fix","continuity/default","lambdabettergrass/default","file/VanillaTweaks_Colorful_Enchanting.zip","file/VanillaTweaks_Lower_Shield.zip","file/VanillaTweaks_What.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
