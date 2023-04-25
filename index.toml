@@ -4,6 +4,15 @@ hash-format = "sha256"
 file = "config/capes.json5"
 
 [[files]]
+file = "config/craftpresence.json"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 
 [[files]]
@@ -26,6 +35,9 @@ file = "config/xaeroworldmap.txt"
 
 [[files]]
 file = "config/zoomify.json"
+
+[[files]]
+file = "credits.txt"
 
 [[files]]
 file = "icon.png"
@@ -56,6 +68,10 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
 metafile = true
 
 [[files]]
@@ -111,6 +127,10 @@ file = "mods/deathlog.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 metafile = true
 
@@ -135,6 +155,10 @@ file = "mods/indium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/inspecio.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 metafile = true
 
@@ -144,6 +168,10 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
@@ -232,6 +260,35 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_Colorful_Enchanting.zip"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_Lower_Shield.zip"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_What.zip"
+
+[[files]]
+file = "resourcepacks/bettervanillabuilding.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bettervanillabuildingoverlays.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bushybiomes.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stefansarmorsnitems.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stefansenchantedbooks.pw.toml"
 metafile = true
 
 [[files]]
