@@ -219,11 +219,23 @@ file = "mods/rei.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/replay-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/replaymod.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
