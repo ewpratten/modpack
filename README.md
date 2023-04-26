@@ -8,7 +8,7 @@ This pack collects all of my "must have" mods for play on vanilla Minecraft serv
 - Improved sound processing
 - Additional HUD elements
 - QOL HUD tweaks ([VanillaTweaks](https://vanillatweaks.net))
-- In-game world mapping ([Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) & [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map))
+- In-game world mapping
 - Player model improvements
 - A tasteful touch of capes
 - Discord integration
