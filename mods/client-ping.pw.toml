@@ -1,0 +1,13 @@
+name = "Client Ping"
+filename = "client_ping-1.1.2+1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/74r5ytO7/versions/anmnGqfy/client_ping-1.1.2%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "d157826bdb2c59cefc6b56f08f837469bc4a170c"
+
+[update]
+[update.modrinth]
+mod-id = "74r5ytO7"
+version = "anmnGqfy"

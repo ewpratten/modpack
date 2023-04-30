@@ -75,10 +75,6 @@ file = "mods/balm.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-stats.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 metafile = true
 
@@ -100,6 +96,10 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/client-ping.pw.toml"
 metafile = true
 
 [[files]]
@@ -151,6 +151,10 @@ file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 metafile = true
 
@@ -175,19 +179,11 @@ file = "mods/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/language-reload.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/main-menu-credits.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/modelfix.pw.toml"
 metafile = true
 
 [[files]]
@@ -216,14 +212,6 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/replay-voice-chat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/replaymod.pw.toml"
 metafile = true
 
 [[files]]
