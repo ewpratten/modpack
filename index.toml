@@ -284,6 +284,10 @@ file = "resourcepacks/bushybiomes.pw.toml"
 metafile = true
 
 [[files]]
+file = "resourcepacks/illuminated-shields.pw.toml"
+metafile = true
+
+[[files]]
 file = "resourcepacks/stefansarmorsnitems.pw.toml"
 metafile = true
 
