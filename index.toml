@@ -47,12 +47,6 @@ file = "mods/3dskinlayers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/advancementinfo.pw.toml.disabled"
-
-[[files]]
-file = "mods/antighost.pw.toml.disabled"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
@@ -73,18 +67,12 @@ file = "mods/balm.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml.disabled"
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
 metafile = true
-
-[[files]]
-file = "mods/cem.pw.toml.disabled"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
@@ -115,9 +103,6 @@ file = "mods/cull-less-leaves.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/dcch.pw.toml.disabled"
-
-[[files]]
 file = "mods/deathlog.pw.toml"
 metafile = true
 
@@ -130,21 +115,12 @@ file = "mods/dynamic-fps.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-sound-filters.pw.toml.disabled"
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/exordium.pw.toml.disabled"
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
-
-[[files]]
-file = "mods/fabrishot.pw.toml.disabled"
 
 [[files]]
 file = "mods/indium.pw.toml"
@@ -165,12 +141,6 @@ metafile = true
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
 metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml.disabled"
-
-[[files]]
-file = "mods/main-menu-credits.pw.toml.disabled"
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
@@ -288,6 +258,3 @@ metafile = true
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 metafile = true
-
-[[files]]
-file = "shaderpacks/shrimple.pw.toml.disabled"
