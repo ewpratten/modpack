@@ -1,13 +1,13 @@
 name = "Stefan's Armors'N'Items"
-filename = "Stefan'sArmors'N'ItemsV1.24.1.zip"
+filename = "Stefan'sArmors'N'ItemsV1.26.1.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SoHN1bmW/versions/PuuQ3sCq/Stefan%27sArmors%27N%27ItemsV1.24.1.zip"
+url = "https://cdn.modrinth.com/data/SoHN1bmW/versions/tXUiv6b1/Stefan%27sArmors%27N%27ItemsV1.26.1.zip"
 hash-format = "sha1"
-hash = "0f16805c0d33c702b44c9f18293ace4ae84c6362"
+hash = "41e4700f809060c6f91209b1ea363194016f50f6"
 
 [update]
 [update.modrinth]
 mod-id = "SoHN1bmW"
-version = "PuuQ3sCq"
+version = "tXUiv6b1"

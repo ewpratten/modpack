@@ -1,13 +1,13 @@
 name = "Bushy Biomes"
-filename = "BushyBiomesV2.5.1.zip"
+filename = "BushyBiomesV2.5.2.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FuudQfX7/versions/q3x3k2md/BushyBiomesV2.5.1.zip"
+url = "https://cdn.modrinth.com/data/FuudQfX7/versions/zkJXNMld/BushyBiomesV2.5.2.zip"
 hash-format = "sha1"
-hash = "5af7eedd0dac08a2989f06bc931e550a70c37a39"
+hash = "4eb2b25474b8fa8e08e8d9c33dd84cc19fe484ae"
 
 [update]
 [update.modrinth]
 mod-id = "FuudQfX7"
-version = "q3x3k2md"
+version = "zkJXNMld"
