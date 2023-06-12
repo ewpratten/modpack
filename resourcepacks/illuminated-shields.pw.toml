@@ -1,0 +1,13 @@
+name = "Illuminated Shields"
+filename = "IlluminatedShields.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NviN5Xxl/versions/Qe1c6Zb2/IlluminatedShields.zip"
+hash-format = "sha1"
+hash = "dc3a7bfb369493037db37cc7446e179cd8284799"
+
+[update]
+[update.modrinth]
+mod-id = "NviN5Xxl"
+version = "Qe1c6Zb2"

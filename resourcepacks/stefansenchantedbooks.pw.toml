@@ -1,13 +1,13 @@
 name = "Stefan's Enchanted Books"
-filename = "Stefan'sEnchantedBooks 1.19.4.zip"
+filename = "Stefan'sEnchantedBooks 1.20.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/apRwIWGw/versions/vL9bFCxv/Stefan%27sEnchantedBooks%201.19.4.zip"
+url = "https://cdn.modrinth.com/data/apRwIWGw/versions/QGjUpMPX/Stefan%27sEnchantedBooks%201.20.zip"
 hash-format = "sha1"
-hash = "31c69eee8f46dcaedea42909d290f580d49e86b1"
+hash = "ecda93802ccdadd3817378bbe884ecc8e059e0ec"
 
 [update]
 [update.modrinth]
 mod-id = "apRwIWGw"
-version = "vL9bFCxv"
+version = "QGjUpMPX"
