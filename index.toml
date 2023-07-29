@@ -47,10 +47,6 @@ file = "mods/3dskinlayers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/advancementinfo.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/antighost.pw.toml"
 metafile = true
 
@@ -87,10 +83,6 @@ file = "mods/capes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 metafile = true
 
@@ -104,10 +96,6 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
 metafile = true
 
 [[files]]
@@ -135,15 +123,7 @@ file = "mods/dynamic-fps.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-sound-filters.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/exordium.pw.toml"
 metafile = true
 
 [[files]]
@@ -235,6 +215,10 @@ file = "mods/starlight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/viafabricplus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 metafile = true
 
@@ -284,6 +268,10 @@ file = "resourcepacks/bushybiomes.pw.toml"
 metafile = true
 
 [[files]]
+file = "resourcepacks/illuminated-shields.pw.toml"
+metafile = true
+
+[[files]]
 file = "resourcepacks/stefansarmorsnitems.pw.toml"
 metafile = true
 
@@ -293,8 +281,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-metafile = true
-
-[[files]]
-file = "shaderpacks/shrimple.pw.toml"
 metafile = true
