@@ -47,6 +47,14 @@ file = "mods/3dskinlayers.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/advancementinfo.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
@@ -67,11 +75,19 @@ file = "mods/balm.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cem.pw.toml"
 metafile = true
 
 [[files]]
@@ -103,6 +119,10 @@ file = "mods/cull-less-leaves.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dcch.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/deathlog.pw.toml"
 metafile = true
 
@@ -115,11 +135,23 @@ file = "mods/dynamic-fps.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-sound-filters.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
 metafile = true
 
 [[files]]
@@ -140,6 +172,14 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
 metafile = true
 
 [[files]]
