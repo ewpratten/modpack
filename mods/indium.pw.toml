@@ -7,7 +7,8 @@ url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/yTh7W27h/indium-1.0.21%2B
 hash-format = "sha1"
 hash = "f97c6485da813634541a8c792b2f04d44e17d141"
 
-[update]
-[update.modrinth]
-mod-id = "Orvt0mRa"
-version = "yTh7W27h"
+# TEMP DISABLED until Bobby is compatible with up-to-date Sodium
+# [update]
+# [update.modrinth]
+# mod-id = "Orvt0mRa"
+# version = "yTh7W27h"
