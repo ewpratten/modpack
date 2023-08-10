@@ -25,10 +25,19 @@ file = "config/replaymod.json"
 file = "config/roughlyenoughitems/config.json5"
 
 [[files]]
+file = "config/visuality.json"
+
+[[files]]
 file = "config/waila/waila.json"
 
 [[files]]
+file = "config/waila/waila_plugins.json"
+
+[[files]]
 file = "config/xaerominimap.txt"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -47,10 +56,6 @@ file = "icon.png"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/antighost.pw.toml"
 metafile = true
 
 [[files]]
@@ -127,6 +132,10 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
 metafile = true
 
 [[files]]
