@@ -13,6 +13,9 @@ file = "config/defaultoptions/keybindings.txt"
 file = "config/defaultoptions/options.txt"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 
 [[files]]
@@ -79,6 +82,10 @@ file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/can-i-mine-this-block.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 metafile = true
 
@@ -99,6 +106,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 metafile = true
 
@@ -108,10 +119,6 @@ metafile = true
 
 [[files]]
 file = "mods/dcch.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/deathlog.pw.toml"
 metafile = true
 
 [[files]]
@@ -143,6 +150,10 @@ file = "mods/inspecio.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 metafile = true
 
@@ -156,6 +167,14 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
 metafile = true
 
 [[files]]
