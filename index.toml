@@ -227,10 +227,6 @@ file = "mods/rei.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 metafile = true
 
