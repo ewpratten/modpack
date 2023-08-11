@@ -27,5 +27,13 @@
         "show_continuous_crafting_checkbox": {
             "value": false
         }
+    },
+    "LockedSlotsSettings": {
+        "locked_slots_allow_pickup_into_empty": {
+            "value": true
+        },
+        "locked_slots_empty_hotbar_as_semi_locked": {
+            "value": false
+        }
     }
 }
