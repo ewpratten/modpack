@@ -259,6 +259,14 @@ file = "mods/wavey-capes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 metafile = true
 
