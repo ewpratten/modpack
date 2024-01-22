@@ -55,10 +55,6 @@ file = "credits.txt"
 file = "icon.png"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
@@ -83,47 +79,7 @@ file = "mods/bobby.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/can-i-mine-this-block.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/capes.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/chat-heads.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/client-ping.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/craftpresence.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/cull-less-leaves.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/dcch.pw.toml"
 metafile = true
 
 [[files]]
@@ -131,15 +87,11 @@ file = "mods/default-options.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ears.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -147,15 +99,7 @@ file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/inspecio.pw.toml"
 metafile = true
 
 [[files]]
@@ -171,35 +115,11 @@ file = "mods/krypton.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lambdabettergrass.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libipn.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/light-overlay.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/main-menu-credits.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
 metafile = true
 
 [[files]]
@@ -212,10 +132,6 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
 metafile = true
 
 [[files]]
@@ -248,14 +164,6 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/visuality.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/wavey-capes.pw.toml"
 metafile = true
 
 [[files]]
