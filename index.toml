@@ -16,6 +16,9 @@ file = "config/defaultoptions/options.txt"
 file = "config/roughlyenoughitems/config.json5"
 
 [[files]]
+file = "config/shulkerboxtooltip.json5"
+
+[[files]]
 file = "config/waila/waila.json"
 
 [[files]]
@@ -71,6 +74,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 metafile = true
 
@@ -104,6 +111,10 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
 metafile = true
 
 [[files]]
