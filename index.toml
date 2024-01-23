@@ -1,10 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/capes.json5"
+file = "config/bobby.conf"
 
 [[files]]
-file = "config/craftpresence.json"
+file = "config/capes.json5"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -13,19 +13,7 @@ file = "config/defaultoptions/keybindings.txt"
 file = "config/defaultoptions/options.txt"
 
 [[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-
-[[files]]
-file = "config/isxander-main-menu-credits.json"
-
-[[files]]
-file = "config/replaymod.json"
-
-[[files]]
 file = "config/roughlyenoughitems/config.json5"
-
-[[files]]
-file = "config/visuality.json"
 
 [[files]]
 file = "config/waila/waila.json"
@@ -63,10 +51,6 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/auth-me.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 metafile = true
 
@@ -79,15 +63,15 @@ file = "mods/bobby.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/capes-1-20-4.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
 metafile = true
 
 [[files]]
@@ -99,11 +83,11 @@ file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
+file = "mods/forge-config-api-port.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
+file = "mods/indium.pw.toml"
 metafile = true
 
 [[files]]
@@ -115,15 +99,15 @@ file = "mods/krypton.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/libipn.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/optigui.pw.toml"
+file = "mods/mouse-wheelie.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
 metafile = true
 
 [[files]]
@@ -143,6 +127,10 @@ file = "mods/rei.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 metafile = true
 
@@ -155,10 +143,6 @@ file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/starlight.pw.toml"
 metafile = true
 
@@ -167,11 +151,11 @@ file = "mods/viafabricplus.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
+file = "mods/worldedit-cui.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldeditcui-fabric.pw.toml"
+file = "mods/worldedit.pw.toml"
 metafile = true
 
 [[files]]
@@ -204,29 +188,17 @@ file = "resourcepacks/VanillaTweaks_Lower_Shield.zip"
 file = "resourcepacks/VanillaTweaks_What.zip"
 
 [[files]]
-file = "resourcepacks/bettervanillabuilding.pw.toml"
-metafile = true
-
-[[files]]
-file = "resourcepacks/bettervanillabuildingoverlays.pw.toml"
-metafile = true
-
-[[files]]
-file = "resourcepacks/bushybiomes.pw.toml"
-metafile = true
-
-[[files]]
 file = "resourcepacks/illuminated-shields.pw.toml"
 metafile = true
 
 [[files]]
-file = "resourcepacks/stefansarmorsnitems.pw.toml"
-metafile = true
-
-[[files]]
-file = "resourcepacks/stefansenchantedbooks.pw.toml"
-metafile = true
-
-[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/shrimple.pw.toml"
 metafile = true

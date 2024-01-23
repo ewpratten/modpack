@@ -5,7 +5,7 @@
 		"displayHistory": [],
 		// Declares whether cheating mode is on.
 		"cheating": false,
-		"favoritesEnabled": true,
+		"favoritesEnabled": false,
 		"keyBindings": {
 			"recipeKeybind": {
 				"keyCode": "key.keyboard.r",
@@ -16,8 +16,8 @@
 				"modifier": 0
 			},
 			"hideKeybind": {
-				"keyCode": "key.keyboard.o",
-				"modifier": 2
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
 			},
 			"previousPageKeybind": {
 				"keyCode": "key.keyboard.unknown",
@@ -32,11 +32,11 @@
 				"modifier": 0
 			},
 			"copyRecipeIdentifierKeybind": {
-				"keyCode": "key.mouse.middle",
+				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"favoriteKeybind": {
-				"keyCode": "key.keyboard.a",
+				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"exportImageKeybind": {
@@ -132,7 +132,7 @@
 		}
 	},
 	"appearance": {
-		"recipeScreenType": "ORIGINAL",
+		"recipeScreenType": "COMPOSITE",
 		// Declares the appearance of REI windows.
 		"theme": "LIGHT",
 		"layout": {
@@ -141,7 +141,7 @@
 			// Declares the position of the config button.
 			"configButtonLocation": "LOWER",
 			// Declares whether the craftable filter button is enabled.
-			"showCraftableOnlyButton": true
+			"showCraftableOnlyButton": false
 		},
 		// Declares the appearance of recipe's border.
 		"recipeBorder": "DEFAULT",
@@ -161,10 +161,10 @@
 		// Declares whether REI should remove the recipe book.
 		"disableRecipeBook": true,
 		// Declares whether mob effects should be on the left side instead of the right side.
-		"leftSideMobEffects": false,
+		"leftSideMobEffects": true,
 		// Declares whether subsets is enabled.
-		"isSubsetsEnabled": false,
-		"allowInventoryHighlighting": true,
+		"isSubsetsEnabled": true,
+		"allowInventoryHighlighting": false,
 		"itemCheatingMode": "REI_LIKE"
 	}
 }
