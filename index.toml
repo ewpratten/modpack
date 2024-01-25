@@ -106,6 +106,10 @@ file = "mods/krypton.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 metafile = true
 
