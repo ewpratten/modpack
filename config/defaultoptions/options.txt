@@ -1,5 +1,4 @@
 version:3465
-quilt_available_resource_packs:["high_contrast","lambdabettergrass/default","programmer_art","vanilla","file/VanillaTweaks_Colorful_Enchanting.zip","file/VanillaTweaks_Lower_Shield.zip","file/VanillaTweaks_What.zip","black_icons","classic_icons","file/BetterVanillaBuildingV2.90.zip","file/BushyBiomesV2.5.2.zip","file/BvBOverlaysV5.2.zip","file/IlluminatedShields.zip","file/Stefan\u0027sArmors\u0027N\u0027ItemsV1.26.1.zip","file/Stefan\u0027sEnchantedBooks 1.20.zip","white_icons"]
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -43,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","lambdabettergrass/default","file/VanillaTweaks_What.zip","file/VanillaTweaks_Lower_Shield.zip","file/VanillaTweaks_Colorful_Enchanting.zip","file/IlluminatedShields.zip"]
-incompatibleResourcePacks:["file/VanillaTweaks_What.zip","file/VanillaTweaks_Lower_Shield.zip","file/VanillaTweaks_Colorful_Enchanting.zip"]
+resourcePacks:["vanilla","file/VanillaTweaks_What.zip","file/VanillaTweaks_Lower_Shield.zip"]
+incompatibleResourcePacks:["file/VanillaTweaks_What.zip","file/VanillaTweaks_Lower_Shield.zip"]
 lastServer:
 lang:en_us
 soundDevice:""

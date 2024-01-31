@@ -1,7 +1,0 @@
-name = "capes-1-20-4"
-filename = "capes-1.5.3+1.20.4-fabric.jar"
-
-[download]
-url = "https://github.com/DovydasTEDS/Capes-1.20.4/releases/download/1.20.4/capes-1.5.3+1.20.4-fabric.jar"
-hash-format = "sha256"
-hash = "17f1db48ba5f2be0f61ea634f8de9f85bf7a404fce345be90371890963f6bcd8"
