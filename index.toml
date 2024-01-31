@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/build.yml"
+
+[[files]]
 file = "config/bobby.conf"
 
 [[files]]
