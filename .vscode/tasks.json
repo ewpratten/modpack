@@ -21,6 +21,17 @@
                 "refresh"
             ],
             "problemMatcher": []
+        },
+        {
+            "label": "Start Local Webserver",
+            "type": "shell",
+            "command": "python3",
+            "args": [
+                "-m",
+                "http.server",
+                "8080"
+            ],
+            "problemMatcher": []
         }
     ]
 }
