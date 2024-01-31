@@ -1,6 +1,6 @@
 name = "Terra"
 filename = "Terra-fabric-6.4.3-BETA+ab60f14ff.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FIlZB9L0/versions/EVe9wYaj/Terra-fabric-6.4.3-BETA%2Bab60f14ff.jar"
