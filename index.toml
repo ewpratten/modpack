@@ -52,92 +52,67 @@ file = "icon.png"
 file = "mods.dot"
 
 [[files]]
-file = "mods/appleskin.pw.toml"
-metafile = true
+file = "mods/CullLessLeaves-1.0.5.jar"
 
 [[files]]
-file = "mods/badpackets.pw.toml"
-metafile = true
+file = "mods/DynamicSoundFilters-1.3.0+1.19.jar"
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-metafile = true
+file = "mods/PresenceFootsteps-1.6.1.jar"
 
 [[files]]
-file = "mods/cull-less-leaves.pw.toml"
-metafile = true
+file = "mods/XaerosWorldMap_1.26.6_Fabric_1.19.1.jar"
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-metafile = true
+file = "mods/Xaeros_Minimap_22.13.2_Fabric_1.19.1.jar"
 
 [[files]]
-file = "mods/durabilityviewer.pw.toml"
-metafile = true
+file = "mods/appleskin-fabric-mc1.19-2.4.1.jar"
 
 [[files]]
-file = "mods/dynamic-sound-filters.pw.toml"
-metafile = true
+file = "mods/badpackets-fabric-0.2.0.jar"
 
 [[files]]
-file = "mods/dynamiccrosshair.pw.toml"
-metafile = true
+file = "mods/dashloader-4.1.2+1.19.jar"
 
 [[files]]
-file = "mods/indium.pw.toml"
-metafile = true
+file = "mods/durabilityviewer-1.19.1-fabric0.58.5-1.10.3.jar"
 
 [[files]]
-file = "mods/iris.pw.toml"
-metafile = true
+file = "mods/dynamiccrosshair-3.5.1+1.19.jar"
 
 [[files]]
-file = "mods/lambdabettergrass.pw.toml"
-metafile = true
+file = "mods/indium-1.0.8+mc1.19.2.jar"
 
 [[files]]
-file = "mods/lithium.pw.toml"
-metafile = true
+file = "mods/iris-mc1.19.2-1.2.7.jar"
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-metafile = true
+file = "mods/lambdabettergrass-1.3.0+1.19.jar"
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml"
-metafile = true
+file = "mods/lithium-fabric-mc1.19.2-0.8.3.jar"
 
 [[files]]
-file = "mods/phosphor.pw.toml"
-metafile = true
+file = "mods/modmenu-4.0.6.jar"
 
 [[files]]
-file = "mods/presence-footsteps.pw.toml"
-metafile = true
+file = "mods/ok_zoomer-5.0.0-beta.9+1.19.jar"
 
 [[files]]
-file = "mods/qsl.pw.toml"
-metafile = true
+file = "mods/phosphor-fabric-mc1.19.x-0.8.1.jar"
 
 [[files]]
-file = "mods/quilt-loading-screen.pw.toml"
-metafile = true
+file = "mods/qfapi-4.0.0-beta.9_qsl-3.0.0-beta.14_fapi-0.60.0_mc-1.19.2.jar"
 
 [[files]]
-file = "mods/sodium.pw.toml"
-metafile = true
+file = "mods/quilt_loading_screen-4.0.0+1.19.jar"
 
 [[files]]
-file = "mods/wthit.pw.toml"
-metafile = true
+file = "mods/sodium-fabric-mc1.19.2-0.4.3+build.17.jar"
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-metafile = true
+file = "mods/wthit-quilt-5.11.3.jar"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
