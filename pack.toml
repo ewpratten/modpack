@@ -1,6 +1,6 @@
 name = "Evan's Pack"
 author = "Evan Pratten"
-version = "1.20.4r3"
+version = "1.20.4r4"
 pack-format = "packwiz:1.1.0"
 
 [index]
