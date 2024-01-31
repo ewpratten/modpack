@@ -56,23 +56,7 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/balm.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/bobby.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/capes-1-20-4.pw.toml"
 metafile = true
 
 [[files]]
@@ -80,19 +64,23 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/default-options.pw.toml"
+file = "mods/cull-less-leaves.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
+file = "mods/dashloader.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
+file = "mods/durabilityviewer.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
+file = "mods/dynamic-sound-filters.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
 metafile = true
 
 [[files]]
@@ -104,11 +92,11 @@ file = "mods/iris.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
+file = "mods/lambdabettergrass.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
+file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
@@ -116,15 +104,11 @@ file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.pw.toml"
+file = "mods/ok-zoomer.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
+file = "mods/phosphor.pw.toml"
 metafile = true
 
 [[files]]
@@ -132,47 +116,15 @@ file = "mods/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
+file = "mods/qsl.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
+file = "mods/quilt-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/terra.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/viafabricplus.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldedit-cui.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
 metafile = true
 
 [[files]]
@@ -188,34 +140,5 @@ file = "mods/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/yacl.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-metafile = true
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_Colorful_Enchanting.zip"
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_Lower_Shield.zip"
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_What.zip"
-
-[[files]]
-file = "resourcepacks/illuminated-shields.pw.toml"
-metafile = true
-
-[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-metafile = true
-
-[[files]]
-file = "shaderpacks/rethinking-voxels.pw.toml"
-metafile = true
-
-[[files]]
-file = "shaderpacks/shrimple.pw.toml"
 metafile = true
