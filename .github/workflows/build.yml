@@ -1,0 +1,24 @@
+name: Build
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    name: Build Modpack
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Ensure packwiz is executable
+        run: chmod +x ./scripts/packwiz
+
+      - name: Build Modpack
+        run: ./scripts/packwiz modrinth export --output ewpratten-master.mrpack
+
+      - name: Upload Modpack
+        uses: actions/upload-artifact@v2
+        with:
+          name: ewpratten-master.mrpack
+          path: ewpratten-master.mrpack
