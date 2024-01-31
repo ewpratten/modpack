@@ -162,6 +162,10 @@ file = "mods/starlight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/terra.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/viafabricplus.pw.toml"
 metafile = true
 
@@ -187,6 +191,10 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/your-reputation.pw.toml"
 metafile = true
 
 [[files]]
