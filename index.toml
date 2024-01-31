@@ -2,118 +2,173 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/build.yml"
+hash = "83b80378a137e3cdb0f2609665b742c4faa4fb43d9639bf2fdb52744572eb416"
 
 [[files]]
 file = "config/bobby.conf"
+hash = "32a51f87b98c4bf0b5e2b996e14fa14c2ee4d6d04ad3b5a939ad00dd25c6649b"
 
 [[files]]
 file = "config/capes.json5"
+hash = "5e21bf064f9e317a952037450844b0dfffc157b1d143e54191f2826b69320e06"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
+hash = "7a4dd33596309015add2acd303d4e5cdd4f068b73ce0165eb9281b602949eae6"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
+hash = "33dbaf6eb472dc80851c66cc58b71a2b0e5f6ec841fef8f3c962df73aae5f411"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
+hash = "3490c6a86c694e0da890e0b348e268a9669ef44620f69e08db427588302c4544"
 
 [[files]]
 file = "config/shulkerboxtooltip.json5"
+hash = "2826dfd6422f5aa043dce6ea2738e0e43473555c4632ff1e73988e7556622608"
 
 [[files]]
 file = "config/waila/waila.json"
+hash = "6fb29290e793fec73c2a326e703eddbdcfdfdf78aaff8623826035ab109c300b"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
+hash = "34a3cf81f37810b643a0d4ce9adcce7928cae880001572039c91638541b84025"
 
 [[files]]
 file = "config/xaerominimap.txt"
+hash = "86fbc41cb81b8cf608b0f4b3ed1db5a1bf3486559453fab419598ac0fc48eb1f"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
+hash = "e1cbc29c6ec6cc52dbb88264ccbe03af934a740085871e0fe59e2d7c52a4f045"
 
 [[files]]
 file = "config/xaeropatreon.txt"
+hash = "519f811142b420c13dcf133196b9edd93046cf37e30c63afaf4f0e962b4fc94a"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
+hash = "5ca7b6af205df4f192a896e99988282449fb1d62e74c6b1c82d3846fb878285a"
 
 [[files]]
 file = "config/zoomify.json"
+hash = "10c77a5142dc212339ad9f1b245e1598388652d95d896ecebd4764d8e5ff2882"
 
 [[files]]
 file = "credits.txt"
+hash = "63c7a18a56d4c1912554f92cf493ae6b746ada7fb099afb7c97f0b9a73866a5a"
 
 [[files]]
 file = "icon.png"
+hash = "954a746e0c6d2d72750acd124cabdd072fe1c05ff3ea3cd5c0478faee79ef873"
 
 [[files]]
 file = "mods.dot"
+hash = "f84a3b87f551883be9270e29845cf2aa9a4c8f955d5e7d66bb5c70e4350f7c69"
 
 [[files]]
-file = "mods/CullLessLeaves-1.0.5.jar"
+file = "mods/CullLessLeaves-1.0.2.jar"
+hash = "00d7ec4a7068a219a6e6df10a1fe1f546c001f41ece04b9671e6076da2fd2ebe"
 
 [[files]]
-file = "mods/DynamicSoundFilters-1.3.0+1.19.jar"
+file = "mods/PresenceFootsteps-1.6.0.jar"
+hash = "5daf02b58a25d341774f9222d8c60beadbee40d0ba34d5b8a13bd2b651f2774c"
 
 [[files]]
-file = "mods/PresenceFootsteps-1.6.1.jar"
+file = "mods/XaerosWorldMap_1.24.0_Fabric_1.19.jar"
+hash = "305fac65a516a16ad0c88a43b238ba1533cf42059b895443a7b9bccab03df6b6"
 
 [[files]]
-file = "mods/XaerosWorldMap_1.26.6_Fabric_1.19.1.jar"
+file = "mods/Xaeros_Minimap_22.10.1_Fabric_1.19.jar"
+hash = "876c867e6e7a4a6b3c6253b0e0198ec9d2af3a6607d2a1450d64fd8858944a67"
 
 [[files]]
-file = "mods/Xaeros_Minimap_22.13.2_Fabric_1.19.1.jar"
+file = "mods/appleskin-fabric-mc1.19-2.4.0.jar"
+hash = "fa16725208294f8c89a5b88d22c6bd4256a92b6b1c1df2bce46f3172fbbee0cc"
 
 [[files]]
-file = "mods/appleskin-fabric-mc1.19-2.4.1.jar"
+file = "mods/badpackets-fabric-0.1.2.jar"
+hash = "205b163eab823e77a72624e8cf855563f8cc0e45ed8f8ff45331f397e0d48954"
 
 [[files]]
-file = "mods/badpackets-fabric-0.2.0.jar"
+file = "mods/charmonium-fabric-1.19-4.1.0.jar"
+hash = "279fe2a683eb998b01b0bd46ed84bd6bfb8d3edeb0bc10bbf21c47b732bc0a9a"
 
 [[files]]
-file = "mods/dashloader-4.1.2+1.19.jar"
+file = "mods/dashloader-4.0.0+1.19.jar"
+hash = "08d7f6e07c3a75d50ecda2d9ade1c2d9dd6f383403bdceb9c19c07a308d87127"
 
 [[files]]
-file = "mods/durabilityviewer-1.19.1-fabric0.58.5-1.10.3.jar"
+file = "mods/durabilityviewer-1.19-fabric0.53.3-1.10.3.jar"
+hash = "623d9294435f724bce96eb0d69ad05e2cee1b77195f1c492b5a794016fec9a12"
 
 [[files]]
-file = "mods/dynamiccrosshair-3.5.1+1.19.jar"
+file = "mods/dynamic-fps-2.2.0.jar"
+hash = "596c2924bad607f5820dc57f0b04387cbfc12894946970dde1e5050818196f7b"
 
 [[files]]
-file = "mods/indium-1.0.8+mc1.19.2.jar"
+file = "mods/entityculling-fabric-1.5.2-mc1.19.jar"
+hash = "0f2e6b299c422bd68966c2917dc20ebb58d20f001676ad71bc20a424d1290e6f"
 
 [[files]]
-file = "mods/iris-mc1.19.2-1.2.7.jar"
+file = "mods/indium-1.0.6+mc1.19.jar"
+hash = "f526aece032f53ba5b7a8ba5de44d806e6be5cea8ca6114e4e2f96de845dbee3"
+
+[[files]]
+file = "mods/iris-mc1.19-1.2.5.jar"
+hash = "da9cef0f6c697be6ede5edd31681d1caf771e3ac9e88d96cfe89573e440da6de"
+
+[[files]]
+file = "mods/krypton-0.2.0.jar"
+hash = "2d57301028f354cc5fde3ff710613e6b20c10041ccdbbb7a45182cf116562ab4"
 
 [[files]]
 file = "mods/lambdabettergrass-1.3.0+1.19.jar"
+hash = "af81aead5e405a6ac2f5c03ab46c82863f7c55a8beef8d6313501d9b8335ab54"
 
 [[files]]
-file = "mods/lithium-fabric-mc1.19.2-0.8.3.jar"
+file = "mods/lambdynamiclights-2.1.2+1.19.jar"
+hash = "153699d6e60673e203da65c10c0f40e9502e0cc775d35f594a4acab4afd77b26"
 
 [[files]]
-file = "mods/modmenu-4.0.6.jar"
+file = "mods/lithium-fabric-mc1.19-0.8.0.jar"
+hash = "3236bad542c3467c87cc19d89df8013bd78c352e59c66ad4f7262fd152e4ecab"
 
 [[files]]
-file = "mods/ok_zoomer-5.0.0-beta.9+1.19.jar"
+file = "mods/modmenu-4.0.0.jar"
+hash = "d0c1ae78e727d69eaf420839605d44c025e91b438bbe480c8b576842cc69d1de"
+
+[[files]]
+file = "mods/multiconnect-1.6-beta.16.jar"
+hash = "22bd6617ad737114ecc62a59eae71178bb4f30cd3a73dbb984fd155377593dca"
+
+[[files]]
+file = "mods/notenoughcrashes-4.1.6+1.19-fabric.jar"
+hash = "e7a6c520ad8090096b5270fc9bc307678194b392ab1e41a9c4c4c4a1102ee81b"
 
 [[files]]
 file = "mods/phosphor-fabric-mc1.19.x-0.8.1.jar"
+hash = "2d1b8ebd216d5c04356c0bca53899b93d3d602bb1ab611451b0b0f971ac1f1db"
 
 [[files]]
-file = "mods/qfapi-4.0.0-beta.9_qsl-3.0.0-beta.14_fapi-0.60.0_mc-1.19.2.jar"
+file = "mods/qfapi-2.0.0-beta.1_qsl-2.0.0-beta.8_fapi-0.56.3_mc-1.19.jar"
+hash = "fb803a788db3e22bb107982d9871020848a42c74fa46906a1a61e90daaa1448c"
 
 [[files]]
-file = "mods/quilt_loading_screen-4.0.0+1.19.jar"
+file = "mods/sodium-fabric-mc1.19-0.4.2+build.16.jar"
+hash = "3bd5e4fc759b8a311dc088502eaeabc49676e4c0b10d380975635c46c71f037d"
 
 [[files]]
-file = "mods/sodium-fabric-mc1.19.2-0.4.3+build.17.jar"
+file = "mods/spark-1.9.13-fabric.jar"
+hash = "7770d4101a1e7f8160e637cff56344f496abe2de11e536487bb8744fa99595f3"
 
 [[files]]
-file = "mods/wthit-quilt-5.11.3.jar"
+file = "mods/wthit-fabric-5.4.3.jar"
+hash = "bd5443b54a2a12253b8a7fc1177eca7169e7207735bc5269bbd381b1e037f605"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "aa9dc0d84028c1f3172219af7edd55590f5c98a69ef41dc72a2f2c57fc4de704"
 metafile = true
