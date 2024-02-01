@@ -52,34 +52,49 @@ file = "icon.png"
 file = "mods.dot"
 
 [[files]]
-file = "mods/InGameAccountSwitcher-Fabric-1.18-7.1.3.jar"
+file = "mods/DynamicSoundFilters-1.1.3+1.16.2.jar"
 
 [[files]]
-file = "mods/RoughlyEnoughItems-7.0.346.jar"
+file = "mods/XaerosWorldMap_1.11.0_Fabric_1.16.4.jar"
 
 [[files]]
-file = "mods/architectury-3.2.47.jar"
+file = "mods/Xaeros_Minimap_20.27.2_Fabric_1.16.4.jar"
 
 [[files]]
-file = "mods/cloth-config-6.0.45-fabric.jar"
+file = "mods/connectedglass-1.0.6-mc1.16.4.jar"
 
 [[files]]
-file = "mods/dynamic-fps-2.0.6.jar"
+file = "mods/dynamic-fps-1.2.1.jar"
 
 [[files]]
-file = "mods/fabric-api-0.43.1+1.18.jar"
+file = "mods/fabric-api-0.22.1+build.409-1.16.jar"
 
 [[files]]
-file = "mods/optifabric-1.12.7.jar"
+file = "mods/fabric-diagonal-panes-0.3.1.jar"
 
 [[files]]
-file = "mods/preview_OptiFine_1.18_HD_U_H3_pre7.jar"
+file = "mods/lithium-fabric-mc1.16.4-0.6.0.jar"
 
 [[files]]
-file = "mods/worldedit-mod-7.2.8.jar"
+file = "mods/malilib-fabric-1.16.4-0.10.0-dev.21+arne.1.jar"
 
 [[files]]
-file = "mods/wthit-fabric-4.3.1.jar"
+file = "mods/modmenu-1.14.6+build.31.jar"
+
+[[files]]
+file = "mods/multiconnect-1.3.33.jar"
+
+[[files]]
+file = "mods/notenoughcrashes-2.1.4+1.16.2.jar"
+
+[[files]]
+file = "mods/okzoomer-4.0.1+1.16.2.jar"
+
+[[files]]
+file = "mods/sodium-fabric-mc1.16.3-0.1.0(1).jar"
+
+[[files]]
+file = "mods/viaversion-fabric-3.2.1-SNAPSHOT.jar"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
