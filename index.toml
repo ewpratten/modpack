@@ -52,70 +52,34 @@ file = "icon.png"
 file = "mods.dot"
 
 [[files]]
-file = "mods/DCCH-2.0+1.17.jar"
+file = "mods/InGameAccountSwitcher-Fabric-1.18-7.1.3.jar"
 
 [[files]]
-file = "mods/DynamicSoundFilters-1.3.0+1.18.2.jar"
+file = "mods/RoughlyEnoughItems-7.0.346.jar"
 
 [[files]]
-file = "mods/OptiFine_1.18.2_HD_U_H7.jar"
+file = "mods/architectury-3.2.47.jar"
 
 [[files]]
-file = "mods/PresenceFootsteps-1.5.0.jar"
+file = "mods/cloth-config-6.0.45-fabric.jar"
 
 [[files]]
-file = "mods/RoughlyEnoughItems-8.1.449.jar"
+file = "mods/dynamic-fps-2.0.6.jar"
 
 [[files]]
-file = "mods/SimpleRPC-fabric-1.18.2-3.0.0.jar"
+file = "mods/fabric-api-0.43.1+1.18.jar"
 
 [[files]]
-file = "mods/XaerosWorldMap_1.20.7_Fabric_1.18.2.jar"
+file = "mods/optifabric-1.12.7.jar"
 
 [[files]]
-file = "mods/Xaeros_Minimap_22.6.1_Fabric_1.18.2.jar"
+file = "mods/preview_OptiFine_1.18_HD_U_H3_pre7.jar"
 
 [[files]]
-file = "mods/appleskin-fabric-mc1.18.2-2.4.0.jar"
+file = "mods/worldedit-mod-7.2.8.jar"
 
 [[files]]
-file = "mods/architectury-4.2.50.jar"
-
-[[files]]
-file = "mods/charmonium-fabric-1.18-4.0.0.jar"
-
-[[files]]
-file = "mods/cloth-config-6.2.57-fabric.jar"
-
-[[files]]
-file = "mods/entityculling-fabric-mc1.18-1.5.1.jar"
-
-[[files]]
-file = "mods/fabric-api-0.51.1+1.18.2.jar"
-
-[[files]]
-file = "mods/ferritecore-4.2.1-fabric.jar"
-
-[[files]]
-file = "mods/lazydfu-0.1.2.jar"
-
-[[files]]
-file = "mods/modmenu-3.1.1.jar"
-
-[[files]]
-file = "mods/notenoughcrashes-4.1.6+1.18.2-fabric.jar"
-
-[[files]]
-file = "mods/optifabric-1.13.0.jar"
-
-[[files]]
-file = "mods/pinglist-1.3.3.jar"
-
-[[files]]
-file = "mods/seamless-loading-screen-1.4.0+1.18.2.jar"
-
-[[files]]
-file = "mods/wthit-fabric-4.8.1.jar"
+file = "mods/wthit-fabric-4.3.1.jar"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
