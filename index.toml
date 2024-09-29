@@ -49,9 +49,6 @@ file = "credits.txt"
 file = "icon.png"
 
 [[files]]
-file = "mods.dot"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
@@ -65,10 +62,6 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/bobby.pw.toml"
 metafile = true
 
 [[files]]
@@ -113,10 +106,6 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/nvidium.pw.toml"
 metafile = true
 
 [[files]]
@@ -173,10 +162,6 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
 metafile = true
 
 [[files]]
