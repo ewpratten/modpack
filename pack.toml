@@ -1,6 +1,6 @@
 name = "Evan's Pack"
 author = "Evan Pratten"
-version = "1.21.1r1"
+version = "1.21.4r1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -8,8 +8,9 @@ file = "index.toml"
 hash-format = "sha256"
 
 [versions]
-fabric = "0.16.5"
-minecraft = "1.21.1"
+minecraft = "1.21.4"
+neoforge = "21.4.78-beta"
 
 [options]
+acceptable-game-versions = ["1.21.4"]
 no-internal-hashes = true

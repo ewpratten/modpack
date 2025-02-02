@@ -1,13 +1,13 @@
 name = "Roughly Enough Items (REI)"
-filename = "RoughlyEnoughItems-16.0.783-fabric.jar"
+filename = "RoughlyEnoughItems-18.0.796-neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nfn13YXA/versions/nJkymL31/RoughlyEnoughItems-16.0.783-fabric.jar"
+url = "https://cdn.modrinth.com/data/nfn13YXA/versions/tyBNZVEX/RoughlyEnoughItems-18.0.796-neoforge.jar"
 hash-format = "sha512"
-hash = "1b442bcce6e79dc2cdfa582a1824191c116d68788d94a3486f01ad3ad163cb404560f8f8b10b5db18f919928f84b3456838f1986c5b635f40f640a7b30ec83bc"
+hash = "0ec6e2597e2c24e3d508543b3a517d02a5e6f9ba099bfcd15f15deda44a0cb8d8298b583f91e2fb64ca3f95fa5589d61f3db1c77a5c95e6b406fbe2ad45e3869"
 
 [update]
 [update.modrinth]
 mod-id = "nfn13YXA"
-version = "nJkymL31"
+version = "tyBNZVEX"

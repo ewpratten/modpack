@@ -57,43 +57,7 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/badpackets.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/balm.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/capes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-sound-filters.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/forge-config-api-port.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
 metafile = true
 
 [[files]]
@@ -101,19 +65,11 @@ file = "mods/iris.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
+file = "mods/jade.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
+file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
@@ -125,14 +81,6 @@ file = "mods/rei.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 metafile = true
 
@@ -141,15 +89,11 @@ file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/viafabricplus.pw.toml"
+file = "mods/viaforge.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
 metafile = true
 
 [[files]]
@@ -161,20 +105,10 @@ file = "mods/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/yacl.pw.toml"
-metafile = true
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_Colorful_Enchanting.zip"
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_Lower_Shield.zip"
-
-[[files]]
 file = "resourcepacks/VanillaTweaks_What.zip"
 
 [[files]]
-file = "resourcepacks/illuminated-shields.pw.toml"
+file = "resourcepacks/low-shield-pack.pw.toml"
 metafile = true
 
 [[files]]
